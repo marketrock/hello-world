@@ -1,3 +1,5 @@
 # hello-world
-my repository
-aamature coder - Changes were made as a to see how changes are made.
+
+Amature coder
+
+Changes were made by amature coder to see how changes are made.
