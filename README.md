@@ -1,5 +1,5 @@
 # hello-world
 
-Amature coder
+Amateur coder
 
-Changes were made by amature coder to see how changes are made.
+Changes were made by amateur coder to see him make changes.
